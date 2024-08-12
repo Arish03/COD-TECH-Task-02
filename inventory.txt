@@ -1,1 +1,4 @@
+Mobile,10
+Laptop,15
+Earphone,25
 
